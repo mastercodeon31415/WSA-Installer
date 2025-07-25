@@ -1,0 +1,47 @@
+{
+  "WSA_Stock": {
+    "PackageParts": [
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.001",
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.002",
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.003",
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.004",
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.005",
+      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_STOCK.7z.006"
+    ],
+    "PackageName": "Stock WSA"
+  },
+  "UserDataPackages": [
+    {
+      "PackageApps": "RVX, RVX Music, MicroG, FX File Explorer",
+      "PackageParts": [
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.001",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.002",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.003",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.004",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.005",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%5D.7z.006"
+      ],
+      "PackageName": "Default WSA User Data Pack"
+    }
+  ],
+  "Integrations": [
+    {
+      "PackageParts": [
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Integrations/GAppsIntegration.7z.001",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Integrations/GAppsIntegration.7z.002",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Integrations/GAppsIntegration.7z.003",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Integrations/GAppsIntegration.7z.004",
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Integrations/GAppsIntegration.7z.005"
+      ],
+      "PackageName": "GApps Integration"
+    }
+  ],
+  "ToolsPackages": [
+    {
+      "PackageParts": [
+        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Tools/Aow-Tools.7z"
+      ],
+      "PackageName": "Aow Tools"
+    }
+  ]
+}
